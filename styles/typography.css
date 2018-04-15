@@ -1,0 +1,65 @@
+    body {
+        font-size: 76%;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    
+    body * {
+        font-size: 1em;
+    }
+    
+    a {
+        font-weight: bold;
+        text-decoration: none;
+        /*用于修饰文本，例如加下划线，上划线等*/
+    }
+    
+    header nav {
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    
+    header nav a {
+        text-decoration: none;
+        font-weight: bold;
+    }
+    
+    article {
+        line-height: 1.8em;
+    }
+    
+    article p {
+        margin: 1em 0;
+    }
+    
+    h1 {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font: 2.4em normal;
+    }
+    
+    h2 {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font: 1.8em normal;
+        margin-top: 1em;
+    }
+    
+    h3 {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font: 1.4em normal;
+        margin-top: 1em;
+    }
+    
+    #imagegallery li {
+        list-style-type: none;
+        /*设置列表项标记的类型*/
+    }
+    
+    textarea {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    }
+    
+    dt {
+        margin-left: 1em;
+    }
+    
+    dd {
+        margin-right: 3em;
+    }
